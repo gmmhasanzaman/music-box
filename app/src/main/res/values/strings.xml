@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Box</string>
+    <string name="song_name">Song Name</string>
+    <string name="artist">Artist</string>
+    <string name="start_time">0.00</string>
+    <string name="end_time">5.00</string>
+</resources>
